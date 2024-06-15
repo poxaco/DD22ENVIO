@@ -3,13 +3,18 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "8ccafe69af2194627c44fb84973d47b2",
-"assets/AssetManifest.json": "f980cc153a8590f51c267e210653e61d",
-"assets/assets/audios/sonido.mp3": "aaa23a2dc2fa2fdd2122a45dc6d87b54",
+const RESOURCES = {"assets/AssetManifest.bin": "6e249864a76954ca04bd87847e9c44da",
+"assets/AssetManifest.json": "673476e64f79e670912d614226d98015",
+"assets/assets/audios/sonido.mp3": "39c534142f07519738141dbf1a108a0f",
 "assets/assets/collection/collection.txt": "ef01fe559b6a9730de9e800d46a29cf1",
+"assets/assets/collection/data.txt": "a83f0f76c2afad4f5d7260824430b798",
+"assets/assets/images/bancolombiacargando.jpg": "e7baff9e000673e0a61ef367ae7dc1cd",
+"assets/assets/images/colpatriacargando.jpg": "92d14bdea3eb3f5092c5eadd1f3f90f3",
+"assets/assets/images/daviviendacarga.jpg": "0b757d9c78a19b618df9ccd1a5522e48",
+"assets/assets/images/tarjetacargando.jpg": "fa9d5f037aeea09b7f7bc066f221dc22",
 "assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
 "assets/fonts/MaterialIcons-Regular.otf": "32fce58e2acb9c420eab0fe7b828b761",
-"assets/NOTICES": "c6db8bc41d64a6a8d85b097c8320de42",
+"assets/NOTICES": "69811d7bd9dc243b4cf23d2b99789945",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "7d8d4306237845212974af924b1ab33d",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "c2281cf0a22c29917ebf755ba9d11e50",
@@ -32,10 +37,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "8ccafe69af2194627c44fb84973d47b2
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "f8c1307ebf7abb5ee6508cecb13bc240",
 "/": "f8c1307ebf7abb5ee6508cecb13bc240",
-"main.dart.js": "4c4e86b6fb85b640ac47a6c143c2268e",
+"main.dart.js": "a4167a7d1862056965f07af207af9093",
 "manifest.json": "0a00b87b6672f24bb07dde1bf817d38b",
-"version.json": "cd38341cb4bf9e0c48227aabe9e4f3d7",
-"web.zip": "d299f57ca4360816dbdb2847b988fafc"};
+"version.json": "cd38341cb4bf9e0c48227aabe9e4f3d7"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
