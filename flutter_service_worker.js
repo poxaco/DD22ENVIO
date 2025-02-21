@@ -6,7 +6,7 @@ const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {"assets/AssetManifest.bin": "6e249864a76954ca04bd87847e9c44da",
 "assets/AssetManifest.json": "673476e64f79e670912d614226d98015",
 "assets/assets/audios/sonido.mp3": "39c534142f07519738141dbf1a108a0f",
-"assets/assets/collection/collection.txt": "ef01fe559b6a9730de9e800d46a29cf1",
+"assets/assets/collection/collection.txt": "7a68f09bd992671bb3b19a5e70b7827e",
 "assets/assets/collection/data.txt": "a83f0f76c2afad4f5d7260824430b798",
 "assets/assets/images/bancolombiacargando.jpg": "e7baff9e000673e0a61ef367ae7dc1cd",
 "assets/assets/images/colpatriacargando.jpg": "92d14bdea3eb3f5092c5eadd1f3f90f3",
@@ -37,7 +37,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "6e249864a76954ca04bd87847e9c44da
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "f8c1307ebf7abb5ee6508cecb13bc240",
 "/": "f8c1307ebf7abb5ee6508cecb13bc240",
-"main.dart.js": "a4167a7d1862056965f07af207af9093",
+"main.dart.js": "5de34209bfd30c33a5ce37d8f2365025",
 "manifest.json": "0a00b87b6672f24bb07dde1bf817d38b",
 "version.json": "cd38341cb4bf9e0c48227aabe9e4f3d7"};
 // The application shell files that are downloaded before a service worker can
